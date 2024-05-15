@@ -10,5 +10,5 @@ export class AppController {
     return this.appService.getHello();
   }
 
-  new endpoint added 
+  
 }
